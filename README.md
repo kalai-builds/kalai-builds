@@ -4,12 +4,17 @@ Hi, I'm Kalai
 
 ---
 
-```yaml
-manifest:
-  uptime:          "15+ years · 99.99% across 20+ microservices"
-  deployment_zone: "London, UK (open to remote)"
-  team_scale:      "25 – 100 engineers"
-  domain:          "FinTech · Global Banking"
+```
+Starting scan on: kalaiarasu.dev
+
+  host       Kalaiarasu Panneerselvan
+  location   London, UK
+  uptime     15+ years
+  team       25 – 100 engineers
+  sector     FinTech · Global Banking
+
+```
+```
 ```
 
 ---
