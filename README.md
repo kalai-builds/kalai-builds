@@ -19,24 +19,6 @@ manifest:
 
 ---
 
-### `delivery.log`
-
-```
-a3f91c  perf   reduce deployment cycle time by 30%
-                → Jenkins · GitHub Actions · JFrog · Harness
-
-d71e4a  fix    cut production vulnerabilities by 75%
-                → SonarQube · Snyk · JFrog Xray in every pipeline
-
-88b0d2  ops    DR recovery: 2 days → 8 minutes
-                → SLO framework across 20+ microservices
-
-f12cc7  feat   $100K+ annual savings via infra rationalisation
-                → PCF → AWS EKS / OpenShift · 200+ apps migrated
-```
-
----
-
 ### `stack`
 
 `AWS` &nbsp; `Kubernetes` &nbsp; `Terraform` &nbsp; `Jenkins` &nbsp; `GitHub Actions`  
