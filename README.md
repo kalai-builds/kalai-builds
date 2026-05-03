@@ -1,4 +1,5 @@
 Hi, I'm Kalai
+
 **Senior DevOps & SRE Architect** &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; AWS Pro · CKA
 
 ---
@@ -12,6 +13,14 @@ manifest:
 ```
 
 ---
+## `Repos`
+
+> Hands-on infrastructure, DevSecOps, and cloud-native delivery work.
+
+| Project | What it does |
+|---------|-------------|
+| [AIOPS Pilot](https://github.com/kally2503/ai-ops-pilot) | 🚨 I built an AI agent that investigates AWS production incidents — automatically |
+| [cicd-monorepo](https://github.com/kally2503/hybrid-app) | Multi-ecosystem CI/CD: Java · Angular · Python with Jenkins, 
 
 ### `stack`
 
@@ -29,4 +38,4 @@ manifest:
 | 🟡 publishing | AWS architecture breakdowns & sketchnotes on LinkedIn |
 ---
 
-`kalaiarasu2525@gmail.com` &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+`kalaiarasu2525@gmail.com` &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kalaiarasu25/)
