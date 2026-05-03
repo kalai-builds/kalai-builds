@@ -1,9 +1,3 @@
-<!-- kalaiarasu2525/kalaiarasu2525/README.md -->
-
-```
-// system.operator
-```
-
 # Kalaiarasu Panneerselvan
 **Senior DevOps & SRE Architect** &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; AWS Pro · CKA
 
