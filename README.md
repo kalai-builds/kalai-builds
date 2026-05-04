@@ -26,7 +26,7 @@ Starting scan on: kalaiarasu.dev
 |---------|-------------|
 | [AIOPS Pilot](https://github.com/kally2503/ai-ops-pilot) | 🚨 I built an AI agent that investigates AWS production incidents — automatically |
 | [cicd-monorepo](https://github.com/kally2503/hybrid-app) | Multi-ecosystem CI/CD: Java · Angular · Python with Jenkins, 
-| [cicd-monorepo](https://github.com/kally2503/terraform_project) | Terraform Project,
+| [Terraform](https://github.com/kally2503/terraform_project) | Terraform Project,
 
 ### `stack`
 
