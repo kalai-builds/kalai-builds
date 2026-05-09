@@ -24,9 +24,10 @@ Starting scan on: kalaiarasu.dev
 
 | Project | What it does |
 |---------|-------------|
-| [AIOPS Pilot](https://github.com/kally2503/ai-ops-pilot) | 🚨 I built an AI agent that investigates AWS production incidents — automatically |
-| [cicd-monorepo](https://github.com/kally2503/hybrid-app) | Multi-ecosystem CI/CD: Java · Angular · Python with Jenkins, 
-| [Terraform](https://github.com/kally2503/terraform_project) | Terraform Project,
+| [AIOPS Pilot](https://github.com/kalai-builds/ai-ops-pilot) | 🚨 I built an AI agent that investigates AWS production incidents — automatically |
+| [cicd-monorepo](https://github.com/kalai-builds/hybrid-app) | Multi-ecosystem CI/CD: Java · Angular · Python with Jenkins, 
+| [Terraform](https://github.com/kalai-builds/terraform_project) | Terraform Project,
+| [SRE](https://github.com/kalai-builds/sre-lab) | SRE Lab — SLO Observability Stack,
 
 ### `stack`
 
